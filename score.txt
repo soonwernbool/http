@@ -7,4 +7,6 @@ git study
   yes
   hxm_test01_main /edit
   yes
+
+  hxm i like you
   
